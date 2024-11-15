@@ -5,7 +5,6 @@
 # You are not allowed to type the words "milk" or "juice". 
 # You are only allowed to use variables to solve this exercise.
 
-
 glass1 = "milk"
 glass2 = "juice"
 
